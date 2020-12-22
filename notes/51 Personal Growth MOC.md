@@ -1,0 +1,10 @@
+# 51 Personal Growth MOC
+* [[Feedback 2018]]
+* [[Manager Feedback Survey 20-05]]
+* [[Feedback från Kristofer]]
+* [[Kalendertid]]
+* [[Speak better - notes]]
+* [[Speaking tips from Churchill]]
+* [[The two mountains of life]]
+* [[Things to remember]]
+* [[What does a CTO do]]

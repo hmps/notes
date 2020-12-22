@@ -29,8 +29,19 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setLibrary('md', md);
     
     eleventyConfig.addCollection("notes", function (collection) {
-        return collection.getFilteredByGlob(["notes/**/*.md", "index.md"]);
-    });
+        const coll = collection.getFilteredByGlob(["notes/**/*.md", "00 Index.md"]);
+      const a = coll.find(a => a.template.parsed.name === 'ESSAY - Acceleration vs navigation')
+      console.log(a);
+
+      return coll.map(a => {
+        if (a.template.parsed.name === 'ESSAY - Acceleration vs navigation') {
+
+          console.log(a.template.frontMatter);
+          a.template.frontMatter.title = 'Hampus';
+        }
+        return a;
+      });
+    });!
     
     eleventyConfig.addPassthroughCopy('assets');
 

@@ -22,7 +22,7 @@ module.exports = {
             for(const otherNote of notes) {
                 const noteContent = otherNote.template.frontMatter.content;
 
-                // Get all links from otherNote
+               // Get all links from otherNote
                 const outboundLinks = (noteContent.match(wikilinkRegExp) || [])
                     .map(link => (
                         // Extract link location
@@ -49,4 +49,4 @@ module.exports = {
             return backlinks;
         }
     }
-}
+} 

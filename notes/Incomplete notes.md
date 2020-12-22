@@ -1,0 +1,2 @@
+# Incomplete notes
+* These are notes that has a assumed value. They are about a certain concept or idea that I want to explore further. Or flesh out more. Or combine with others. They are not yet [[Evergreen notes]] but they aspire to be. They can be excerpt from a book or an article, or a quote that made me stop and think.

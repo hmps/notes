@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+# Hampus' notes
+
+This site contains my collection of notes. [[00 Index|The MOC Index]] is a good place to start.

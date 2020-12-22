@@ -1,0 +1,2 @@
+# Meetings should be a last resort
+Meetings should be a last resort, not a first option. A lot of meetings could have been solved better and more efficiently via a collaborative document. **Communication in general shouldn’t require us to schedule synchronization.** Writing, rather than speaking or meeting, isn’t dependent of anyone’s schedule, and persists over time. Even when a meeting is required, a meeting that has been prepared in writing before is far better than one that hasn’t."

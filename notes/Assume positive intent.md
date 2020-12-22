@@ -1,0 +1,6 @@
+# Assume positive intent
+Try to internalize [Hanlon’s razor](https://fs.blog/2017/04/mental-model-hanlons-razor/). Most people are not out to get you or put you down. They are simply trying to do their job and live their lives to their best ability. If they write, or say, something that irritates, anger, or frustrates you, it’s not because they are trying to do so. They might have a bad day. They might not be deliberate enough in their communication. They might just be a bad communicator. All of which can result in a message that produces a negative feeling inside you.
+
+You can’t control how other people communicate, you can only control how you respond. Assume positive intent, and stay positive, grateful, and humble. Remember that you too will stir similar emotions in other people from time to time.
+
+Be upfront when something you experience negative communication from someone else. Say ”When you write X it makes me feel Y. I assume that you have positive intent, could you please clarify your message for me?”.

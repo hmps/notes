@@ -1,0 +1,65 @@
+# Good to great
+
+# Chapter 1 - Good is the Enemy of Great
+Location 75
+We don’t have great schools, principally because we have good schools. We don’t have great government, principally because we have good government. Few people attain great lives, in large part because it is just so easy to settle for a good life. The vast majority of companies never become great, precisely because the vast majority become quite good—and that is their main problem.
+
+# Chapter 2 - Level 5 Leadership
+Location 343
+Darwin Smith stands as a classic example of what we came to call a Level 5 leader—an individual who blends extreme personal humility with intense professional will. We found leaders of this type at the helm of every good-to-great company during the transition era.
+Location 346
+Level 5 leaders channel their ego needs away from themselves and into the larger goal of building a great company. It’s not that Level 5 leaders have no ego or self-interest. Indeed, they are incredibly ambitious—but their ambition is first and foremost for the institution, not themselves.
+Location 530
+Level 5 leaders are fanatically driven, infected with an incurable need to produce results. They will sell the mills or fire their brother, if that’s what it takes to make the company great.
+Location 551
+going for a high-profile outside change agent is negatively correlated with a sustained transformation from good to great.
+Location 553
+Ten out of eleven good-to-great CEOs came from inside the company, three of them by family inheritance. The comparison companies turned to outsiders with six times greater frequency—yet they failed to produce sustained great results.41
+Location 615
+Level 5 leaders look out the window to apportion credit to factors outside themselves when things go well (and if they cannot find a specific person or event to give credit to, they credit good luck). At the same time, they look in the mirror to apportion responsibility, never blaming bad luck when things go poorly.
+Location 672
+Every good-to-great company had Level 5 leadership during the pivotal transition years. • “Level 5” refers to a five-level hierarchy of executive capabilities, with Level 5 at the top. Level 5 leaders embody a paradoxical mix of personal humility and professional will. They are ambitious, to be sure, but ambitious first and foremost for the company, not themselves. • Level 5 leaders set up their successors for even greater success in the next generation, whereas egocentric Level 4 leaders often set up their successors for failure. • Level 5 leaders display a compelling modesty, are self-effacing and understated. In contrast, two thirds of the comparison companies had leaders with gargantuan personal egos that contributed to the demise or continued mediocrity of the company. • Level 5 leaders are fanatically driven, infected with an incurable need to produce sustained results. They are resolved to do whatever it takes to make the company great, no matter how big or hard the decisions. • Level 5 leaders display a workmanlike diligence—more plow horse than show horse. • Level 5 leaders look out the window to attribute success to factors other than themselves. When things go poorly, however, they look in the mirror and blame themselves, taking full responsibility. The comparison CEOs often did just the opposite—they looked in the mirror to take credit for success, but out the window to assign blame for disappointing results. • One of the most damaging trends in recent history is the tendency (especially by boards of directors) to select dazzling, celebrity leaders and to de-select potential Level 5 leaders. • I believe that potential Level 5 leaders exist all around us, if we just know what to look for, and that many people have the potential to evolve into Level 5.
+Location 689
+Larger-than-life, celebrity leaders who ride in from the outside are negatively correlated with going from good to great. Ten of eleven good-to-great CEOs came from inside the company, whereas the comparison companies tried outside CEOs six times more often.
+
+# Chapter 3 - First Who . . . Then What
+Location 704
+“Look, I don’t really know where we should take this bus. But I know this much: If we get the right people on the bus, the right people in the right seats, and the wrong people off the bus, then we’ll figure out how to take it someplace great.”
+Location 706
+The good-to-great leaders understood three simple truths. First, if you begin with “who,” rather than “what,” you can more easily adapt to a changing world. If people join the bus primarily because of where it is going, what happens if you get ten miles down the road and you need to change direction? You’ve got a problem. But if people are on the bus because of who else is on the bus, then it’s much easier to change direction: “Hey, I got on this bus because of who else is on it; if we need to change direction to be more successful, fine with me.” Second, if you have the right people on the bus, the problem of how to motivate and manage people largely goes away. The right people don’t need to be tightly managed or fired up; they will be self-motivated by the inner drive to produce the best results and to be part of creating something great. Third, if you have the wrong people, it doesn’t matter whether you discover the right direction; you still won’t have a great company. Great vision without great people is irrelevant.
+Location 843
+It’s not how you compensate your executives, it’s which executives you have to compensate in the first place.
+Location 871
+In a good-to-great transformation, people are not your most important asset. The right people are.
+Location 904
+“The only way to deliver to the people who are achieving is to not burden them with the people who are not achieving.”38
+Location 939
+Those who build great companies understand that the ultimate throttle on growth for any great company is not markets, or technology, or competition, or products. It is one thing above all others: the ability to get and keep enough of the right people.
+Location 985
+The good-to-great companies showed the following bipolar pattern at the top management level: People either stayed on the bus for a long time or got off the bus in a hurry. In other words, the good-to-great companies did not churn more, they churned better.
+Location 988
+“Let’s take the time to make rigorous A+ selections right up front. If we get it right, we’ll do everything we can to try to keep them on board for a long time. If we make a mistake, then we’ll confront that fact so that we can get on with our work and they can get on with their lives.”
+Location 997
+I spent a lot of time thinking and talking about who sits where on the bus. I called it “putting square pegs in square holes and round pegs in round holes.”... Instead of firing honest and able people who are not performing well, it is important to try to move them once or even two or three times to other positions where they might blossom.
+Location 1002
+Two key questions can help. First, if it were a hiring decision (rather than a “should this person get off the bus?” decision), would you hire the person again? Second, if the person came to tell you that he or she is leaving to pursue an exciting new opportunity, would you feel terribly disappointed or secretly relieved?
+Location 1005
+Put your best people on your biggest opportunities, not your biggest problems.
+Location 1047
+one of the crucial elements in taking a company from good to great is somewhat paradoxical. You need executives, on the one hand, who argue and debate—sometimes violently—in pursuit of the best answers, yet, on the other hand, who unify fully behind a decision, regardless of parochial interests.
+
+# Chapter 4 - Confront The Brutal Facts (Yet Never Lose Faith)
+Location 1562
+Spending time and energy trying to “motivate” people is a waste of effort. The real question is not, “How do we motivate our people?” If you have the right people, they will be self-motivated. The key is to not de-motivate them. One of the primary ways to de-motivate people is to ignore the brutal facts of reality.
+
+# Chapter 5 - The Hedgehog Concept - (Simplicity within the Three Circles)
+Location 1971
+The key is to understand what your organization can be the best in the world at, and equally important what it cannot be the best at—not what it “wants” to be the best at. The Hedgehog Concept is not a goal, strategy, or intention; it is an understanding. • If you cannot be the best in the world at your core business, then your core business cannot form the basis of your Hedgehog Concept.
+
+# Chapter 6 - A Culture of Discipline
+Location 2399
+Chapter Summary A Culture Of Discipline KEY POINTS • Sustained great results depend upon building a culture full of self-disciplined people who take disciplined action, fanatically consistent with the three circles. • Bureaucratic cultures arise to compensate for incompetence and lack of discipline, which arise from having the wrong people on the bus in the first place. If you get the right people on the bus, and the wrong people off, you don’t need stultifying bureaucracy. • A culture of discipline involves a duality. On the one hand, it requires people who adhere to a consistent system; yet, on the other hand, it gives people freedom and responsibility within the framework of that system. • A culture of discipline is not just about action. It is about getting disciplined people who engage in disciplined thought and who then take disciplined action. • The good-to-great companies appear boring and pedestrian looking in from the outside, but upon closer inspection, they’re full of people who display extreme diligence and a stunning intensity (they “rinse their cottage cheese”). • Do not confuse a culture of discipline with a tyrant who disciplines—they are very different concepts, one highly functional, the other highly dysfunctional. Savior CEOs who personally discipline through sheer force of personality usually fail to produce sustained results. • The single most important form of discipline for sustained results is fanatical adherence to the Hedgehog Concept and the willingness to shun opportunities that fall outside the three circles. UNEXPECTED FINDINGS • The more an organization has the discipline to stay within its three circles, with almost religious consistency, the more it will have opportunities for growth. • The fact that something is a “once-in-a-lifetime opportunity” is irrelevant, unless it fits within the three circles. A great company will have many once-in-a-lifetime opportunities. • The purpose of budgeting in a good-to-great company is not to decide how much each activity gets, but to decide which arenas best fit with the Hedgehog Concept and should be fully funded and which should not be funded at all. • “Stop doing” lists are more important than “to do”
+
+# Chapter 7 - Technology Accelerators
+Location 2716
+Chapter Summary Technology Accelerators KEY POINTS • Good-to-great organizations think differently about technology and technological change than mediocre ones. • Good-to-great organizations avoid technology fads and bandwagons, yet they become pioneers in the application of carefully selected technologies. • The key question about any technology is, Does the technology fit directly with your Hedgehog Concept? If yes, then you need to become a pioneer in the application of that technology. If no, then you can settle for parity or ignore it entirely. • The good-to-great companies used technology as an accelerator of momentum, not a creator of it. None of the good-to-great companies began their transformations with pioneering technology, yet they all became pioneers in the application of technology once they grasped how it fit with their three circles and after they hit breakthrough. • You could have taken the exact same leading-edge technologies pioneered at the good-to-great companies and handed them to their direct comparisons for free, and the comparisons still would have failed to produce anywhere near the same results. • How a company reacts to technological change is a good indicator of its inner drive for greatness versus mediocrity. Great companies respond with thoughtfulness and creativity, driven by a compulsion to turn unrealized potential into results; mediocre companies react and lurch about, motivated by fear of being left behind. UNEXPECTED FINDINGS • The idea that technological change is the principal cause in the decline of once-great companies (or the perpetual mediocrity of others) is not supported by the evidence. Certainly, a company can’t remain a laggard and hope to be great, but technology by itself is never a primary root cause of either greatness or decline. • Across eighty-four interviews with good-to-great executives, fully 80 percent didn’t even mention technology as one of the top five factors in the transformation. This is true even in companies famous for their pioneering application of technology, such as Nucor. • “Crawl, walk, run” can be a very effective approach, even during times of rapid and radical technological change.

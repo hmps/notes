@@ -1,0 +1,8 @@
+# Prefer note titles with complete phrases
+I came across this idea on [Andy Matuschak's blog](https://notes.andymatuschak.org/). I trying to think about how to fit it into my workflow. The final objective should be to have notes with complete titles, that can be "used as APIs" (Andy's words). When designing an API I want each endpoint to contain just the information it need.
+
+REST APIs are built with a single conceptual unit as the base for each endpoint. Eg `/user` to get information about a user. If I also want information about their purchases I need another endpoint. That's not compatible with this idea of complete phrases. That API would end up looking more like `/user-with-purchases`, `/user-with-recommendations`, etc. That is nice for the consumer, when they need that exact information. If they need something new it's a hassle.
+
+The "API" I'm building with my notes should contain both levels. It needs a `/user-with-purchases` as well as a `/users` and a `/purchases` end-point. That way other notes can reference the [[Evergreen notes]] when needed, and the lower level notes when needed. (Are the lower level [[Maps of content]]?)
+
+If [[Writing is everything]], it makes sense that there should be different levels of notes. The goal to strive for are [[Evergreen notes]] like this, which has both references and my own thoughts. [[Maps of content]] are used to pull together information, and to act as bridges between notes.
